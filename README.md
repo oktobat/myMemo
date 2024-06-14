@@ -49,5 +49,10 @@ https://github.com/oktobat/startshipVue3 : vue3로 변경한 코드
 https://github.com/oktobat/servlet : WebContent 서블릿 관련한 소스 코드
 https://github.com/oktobat/JAVA : 스프링 프레임워크 관련한 실습 목적의 소스코드
 https://github.com/oktobat/bookRentalService : 북렌탈서비스 소스코드 
-https://github.com/oktobat/kim1217
+https://github.com/oktobat/vuespring : JPA 프로젝트
 
+<Vue, Spring 풀스택>
+https://github.com/oktobat/fullStackVueSpring : 프론트엔드 vue, 백엔드 java
+
+<학생 프로젝트>
+https://github.com/oktobat/kimsh : 김상혁( https://oktobat.github.io/kimsh/ )
