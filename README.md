@@ -22,7 +22,9 @@ https://github.com/oktobat/prosample02 : 24년 1월 11일 메인페이지 샘플
 https://github.com/oktobat/tourphp : 이 파일은 로컬컴퓨터에 xampp를 설치한 후 c - xampp - htdocs 폴더에 프로젝트 폴더를 복사시킨 후, xampp 실행시키고 apache와 mySql 스타트 시켜놓고 웹브라우저 주소창에 http://localhost/폴더명/index.php 입력하여 실행해야 함 ( https://oktobat.github.io/tourphp/index.php )
 
 <JavaScript 프로젝트 및 공부>
+https://github.com/oktobat/summary : 자바스크립트 공부 실습파일 
 https://github.com/oktobat/book : ajax 응용 실습 (https://oktobat.github.io/book/)
+
 
 <React 프론트엔드>
   https://github.com/oktobat/todo_react : 초기 todo react
