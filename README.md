@@ -54,7 +54,7 @@ https://github.com/oktobat/book : ajax 응용 실습 (https://oktobat.github.io/
 
 # <React 프론트엔드>
   https://github.com/oktobat/todo_react : 초기 todo react
-  
+
   https://github.com/oktobat/todo-reactSrc : 위에것보다 나중에 수정된 코드
 
   https://github.com/oktobat/todoContextAPI : 컨텍스트API 사용
@@ -62,6 +62,8 @@ https://github.com/oktobat/book : ajax 응용 실습 (https://oktobat.github.io/
   https://github.com/oktobat/todo-redux : react redux 활용한 todo
   
   https://github.com/oktobat/todo : build 해서 깃헙에 배포한 코드로 배포주소도 있음 (https://oktobat.github.io/todo/)
+
+  https://github.com/oktobat/todo_vite : vite 방식
 
   https://github.com/oktobat/starship-react : 아래의 배포하기전 소스코드
   
