@@ -69,6 +69,8 @@ https://github.com/oktobat/book : ajax 응용 실습 (https://oktobat.github.io/
   https://github.com/oktobat/starshipReactFirebase : 구글 파이어베이스 배포 방법 포함된 소스코드
   
 # <React, Node 활용한 fullStack>
+  https://github.com/oktobat/reactNodeJsProject : 에어비앤비스타일, 카페24에 배포한 코드 포함됨
+
   https://github.com/oktobat/reactNodeFullStack : 구글, 카카오, 네이버 로그인 포함됨(memo 폴더에 sns로그인.txt)
   
 # <React, Node fullStack AWS 호스팅>
