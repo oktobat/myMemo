@@ -67,7 +67,7 @@ https://github.com/oktobat/todo_vue : todo vue 프로젝트
 
 https://github.com/oktobat/todo_vuex : todo vuex 프로젝트
 
-https://github.com/oktobat/starship : 초기 vue 프로젝트
+https://github.com/oktobat/starship : 초기 vue 프로젝트(ProductSection에서 slot활용)
 
 https://github.com/oktobat/startshipVue3 : vue3로 변경한 코드
 
