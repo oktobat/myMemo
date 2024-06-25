@@ -31,6 +31,18 @@ https://github.com/oktobat/kinder0209 : 21년 1월 10일
 
 https://github.com/oktobat/prosample02 : 24년 1월 11일 메인페이지 샘플 
 
+# <RESUME 프로젝트 샘플>
+https://github.com/oktobat/resume0 : 세로 스크롤
+
+https://github.com/oktobat/resume1 : 세로 스크롤, 세로막대 그래프 애니메이션
+
+https://github.com/oktobat/resume2 : 세로 스크롤, 가로막대 그래프
+
+https://github.com/oktobat/resume3 : 가로 스크롤
+
+https://github.com/oktobat/resume4 : 가로 스크롤(스크롤바 움직임에 따라 캐릭터가 앞으로 이동함)
+
+
 # <PHP 프로젝트>
 https://github.com/oktobat/tourphp : 이 파일은 로컬컴퓨터에 xampp를 설치한 후 c - xampp - htdocs 폴더에 프로젝트 폴더를 복사시킨 후, xampp 실행시키고 apache와 mySql 스타트 시켜놓고 웹브라우저 주소창에 http://localhost/폴더명/index.php 입력하여 실행해야 함 ( https://oktobat.github.io/tourphp/index.php )
 
