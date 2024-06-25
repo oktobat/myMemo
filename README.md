@@ -53,6 +53,8 @@ https://github.com/oktobat/book : ajax 응용 실습 (https://oktobat.github.io/
 
 
 # <React 프론트엔드>
+  https://github.com/oktobat/idiya : 이디야
+
   https://github.com/oktobat/todo_react : 초기 todo react
 
   https://github.com/oktobat/todo-reactSrc : 위에것보다 나중에 수정된 코드
